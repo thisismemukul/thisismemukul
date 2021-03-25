@@ -10,10 +10,23 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+- ⚡ My Portfolio 👇
+----> <a href="https://www.thisismemukul.ml/" target="_blank">Thisismemukul</a> (My Portfolio) <br>
+
+- ⚡ My Work 👇
+
+----> <a href="https://theleapcompany.in/" target="_blank">The Leap Company</a> (Completed on Feb 2021) <br>
+----> <a href="http://www.thisismewebdev.ml/codes.php" target="_blank">Thisismewebdev | Grab Javascript &amp; CSS projects</a> (Completed on Jan 2021) {OPEN-SOURCE} <br>
+----> <a href="https://www.rentweb.ml/" target="_blank">Rentweb</a> (Completed on Dec 2020) <br>
+----> <a href="http://workplace.epizy.com/" target="_blank">My First Portfolio Website</a> (Completed on Oct 2020) <br> 
+----> <a href="http://thisismewebdev.epizy.com/" target="_blank">Web Dev </a>just for practice 'cause practice make everything perfect (Completed on Oct 2020) <br>
+----> <a href="http://snapstock.epizy.com/" target="_blank">Snap Stock</a> (Completed on Sept 2020) {OPEN-SOURCE} <br>
 ### Connect with me:
 
 [<img align="left" alt="Mukul Saini | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Mukul Saini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mukul Saini | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Mukul Saini | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -49,3 +62,5 @@
 
 [instagram]: https://instagram.com/thisismemukul
 [telegram]: https://ttttt.me/thisismemukul
+[whatsapp]: https://wa.me/918769506494
+[linkedin]: https://www.linkedin.com/in/thisisme-mukulsaini
