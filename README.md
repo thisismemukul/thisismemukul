@@ -2,7 +2,7 @@
 <a href="#"><img title="THISISME" src="https://github.com/thisismemukul/thisisme/blob/main/images/logo.png"></a>
 </p>
 
-### Hi there, This is me [Mukul Saini][instagram] 👋
+### Hi there, This is me [Mukul Saini][linkedin] 👋
 
 ## I'm a Web Developer, Graphic Designer, and Student!
 
