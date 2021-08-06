@@ -22,6 +22,11 @@
 ----> <a href="http://thisismewebdev.epizy.com/" target="_blank">Web Dev </a>just for practice 'cause practice make everything perfect (Completed on Oct 2020) <br>
 ----> <a href="http://snapstock.epizy.com/" target="_blank">Snap Stock</a> (Completed on Sept 2020) {OPEN-SOURCE} <br>
 ----> <a href="https://thisismemukul.github.io/github-slideshow/" target="_blank">Introduction to GitHub</a> (Completed on May 2020) <br>
+
+- ⚡ JavaScript Projects 👇
+
+----> <a href="https://github.com/thisismemukul/RGBGuessingGame.git" target="_blank">RGB Guessing Game code</a> -> <a href="https://thisismemukul.github.io/RGBGuessingGame/" target="_blank">Play Game</a> (Completed on Aug 2021) <br>
+
 ### Connect with me:
 
 [<img align="left" alt="Mukul Saini | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
