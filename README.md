@@ -26,6 +26,7 @@
 - ⚡ JavaScript Projects 👇
 
 ----> <a href="https://github.com/thisismemukul/RGBGuessingGame.git" target="_blank">RGB Guessing Game code</a> -> <a href="https://thisismemukul.github.io/RGBGuessingGame/" target="_blank">Play Game</a> (Completed on Aug 2021) <br>
+----> <a href="https://github.com/thisismemukul/jQuery-ToDo-List.git" target="_blank">jQuery To-Do List </a> -> <a href="https://thisismemukul.github.io/jQuery-ToDo-List/" target="_blank">To-Do List Demo</a> (Completed on Aug 2021) <br>
 
 ### Connect with me:
 
