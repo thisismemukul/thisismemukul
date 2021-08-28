@@ -16,6 +16,9 @@
 
 - ⚡ My Work 👇
 
+----> <a href="https://movie-search-nodejs.herokuapp.com/" target="_blank">Node Movie Search App</a> (Completed on Aug 2021) <br>
+----> <a href="https://techiefy.in/" target="_blank">Techiefy</a> (Completed on Aug 2021) <br>
+----> <a href="https://www.eventribe.in/" target="_blank">Eventribe</a> (Completed on June 2021) <br>
 ----> <a href="https://theleapcompany.in/" target="_blank">The Leap Company</a> (Completed on Feb 2021) <br>
 ----> <a href="http://www.thisismewebdev.ml/codes.php" target="_blank">Thisismewebdev | Grab Javascript &amp; CSS projects</a> (Completed on Jan 2021) {OPEN-SOURCE} <br>
 ----> <a href="https://www.rentweb.ml/" target="_blank">Rentweb</a> (Completed on Dec 2020) <br>
@@ -26,6 +29,7 @@
 
 - ⚡ JavaScript Projects 👇
 
+----> <a href="https://github.com/thisismemukul/movie_search_api.git" target="_blank">Node Movie Search Api App </a> -> <a href="https://movie-search-nodejs.herokuapp.com/" target="_blank">Mives Search App Demo</a> (Completed on Aug 2021) <br>
 ----> <a href="https://github.com/thisismemukul/RGBGuessingGame.git" target="_blank">RGB Guessing Game code</a> -> <a href="https://thisismemukul.github.io/RGBGuessingGame/" target="_blank">Play Game</a> (Completed on Aug 2021) <br>
 ----> <a href="https://github.com/thisismemukul/jQuery-ToDo-List.git" target="_blank">jQuery To-Do List </a> -> <a href="https://thisismemukul.github.io/jQuery-ToDo-List/" target="_blank">To-Do List Demo</a> (Completed on Aug 2021) <br>
 ----> <a href="https://github.com/thisismemukul/patatap_clone.git" target="_blank">Patatap Clone </a> -> <a href="https://thisismemukul.github.io/patatap_clone/" target="_blank">Patatap Demo</a> (Completed on Aug 2021) <br>
