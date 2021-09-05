@@ -36,7 +36,7 @@
 ----> <a href="https://github.com/thisismemukul/patatap_clone.git" target="_blank">Patatap Clone </a> -> <a href="https://thisismemukul.github.io/patatap_clone/" target="_blank">Patatap Demo</a> (Completed on Aug 2021) <br>
 
 
-<img width="10" height="10" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif" alt="Google search clone" title="Google clone show gif" width="500"/>
+<img width="100" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif" alt="Google search clone" title="Google clone show gif" width="500"/>
 
 
 ### Connect with me:
