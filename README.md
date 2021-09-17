@@ -13,9 +13,10 @@ I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day,
 - ⚡ My Portfolio 👇
 - ----> <a href="https://www.thisismemukul.ml/" target="_blank">Thisismemukul</a>
 </p>
-----> <a href="https://www.thisismemukul.ml/" target="_blank">
+<a href="https://www.thisismemukul.ml/" target="_blank">
 <img align="right" alt="GIF" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true" width="500"/>
-</a><br>
+</a>
+<br>
 
 - 🌱 I’m currently working as a freelancer 😎
 - 👯 I’m looking to collaborate with other content creators
@@ -43,6 +44,36 @@ JavaScript   5 hrs 40 mins   ████████▓░░░░░░░░
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
+
+### - ⚡ My Work 👇
+In the overview below you will find my most recent work :
+
+[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://creativegeekstudio.in/)
+
+**Front-End Web Developer Intern and Video Editor & Animation Creator** \
+[**Creative-Geek-Studio**](https://creativegeekstudio.in/) • Full-time \
+Languages & Technologies: `JavaScript`, `CSS`, `Photoshop`, `After Effects` \
+Featured Projects: [Videos](https://www.youtube.com/channel/UC4HfyPOpc4LS2nqCGuseAVA)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1636588800&v=beta&t=vb3CopQ5KEaiwioRV5aYFIemQUw5H3C_ilPmpkQHDX4"/>](https://www.kpn.com/)
+
+**Site Reliability Engineer (SRE)** \
+[**KPN**](https://www.kpn.com/) • Contract \
+Languages & Technologies: `RHEL`, `Python`, `Ansible`\
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1636588800&v=beta&t=agD_7d9PqlxI8rCgZrGuAkLZjAOWxiqJgNWvzupLwtc"/>](https://duo.nl/)
+
+**DevOps Engineer** \
+[**DUO**](https://duo.nl/) • Contract \
+Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+<br/>
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) for a more detailed description of my full work experience, education and certification.
+
 
 - ⚡ My Work 👇
 
