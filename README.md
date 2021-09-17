@@ -1,22 +1,19 @@
-
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=thisismemukul" alt="Mukul Saini's Profile views"/></p>
-
 ### Hi there, This is me [Mukul Saini][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I’m a `designer` who <code>codes</code>, with 3+ Years of Experience
-
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=thisismemukul" alt="Mukul Saini's Profile views"/></p>
 <p align="center">
 <!-- <a href="#"><img title="THISISME" src="https://github.com/thisismemukul/thisisme/blob/main/images/logo.png"></a> -->
-<img title="THISISME" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png" width="65px">
+<img title="THISISME" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png">
 </p>
 
 I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day, practically every day, experimenting with programming languages and designing tools; I build websites that delight and inform. I do it well.
 
 
 - ⚡ My Portfolio 👇<br>
-----> <a href="https://www.thisismemukul.ml/" target="_blank">
-<img align="right" alt="GIF" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true" width="500" height="320" />
-Thisismemukul</a> (My Portfolio) <br>
+----> <a href="https://www.thisismemukul.ml/" target="_blank">Thisismemukul
+<img align="right" alt="GIF" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true" width="500"/>
+</a> (My Portfolio) <br>
 
 - 🌱 I’m currently working as a freelancer 😎
 - 👯 I’m looking to collaborate with other content creators
