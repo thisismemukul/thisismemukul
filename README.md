@@ -9,8 +9,11 @@
 
 I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day, practically every day, experimenting with programming languages and designing tools; I build websites that delight and inform. I do it well.
 
+<p align="right">
 - ⚡ My Portfolio 👇
-----> <a href="https://www.thisismemukul.ml/" target="_blank">Thisismemukul
+- ----> <a href="https://www.thisismemukul.ml/" target="_blank">Thisismemukul</a>
+</p>
+----> <a href="https://www.thisismemukul.ml/" target="_blank">
 <img align="right" alt="GIF" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true" width="500"/>
 </a><br>
 
