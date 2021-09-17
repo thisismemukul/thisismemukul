@@ -9,11 +9,12 @@
 
 I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day, practically every day, experimenting with programming languages and designing tools; I build websites that delight and inform. I do it well.
 
-
+<p  align="right">
 - ⚡ My Portfolio 👇<br>
 ----> <a href="https://www.thisismemukul.ml/" target="_blank">Thisismemukul
-<img align="right" alt="GIF" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true" width="500"/>
-</a><br>
+<img alt="GIF" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true" width="500"/>
+</a>
+</p><br>
 
 - 🌱 I’m currently working as a freelancer 😎
 - 👯 I’m looking to collaborate with other content creators
@@ -22,15 +23,16 @@ I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day,
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/terminal/terminal.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -82,9 +84,6 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/thisismemukul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 <a href="https://www.buymeacoffee.com/thisismemukul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
