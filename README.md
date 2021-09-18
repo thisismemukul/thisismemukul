@@ -21,6 +21,7 @@ I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day,
 - 🌱 I’m currently working as a freelancer 😎
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 👩‍💻 Check out my <a href="https://thisismemukul.github.io/myportfolio/" target="_blank">resume</a>
 
 **languages and tools:**  
 
@@ -45,10 +46,10 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-### - ⚡ My Work 👇
-In the overview below you will find my most recent work :
+### - ⚡ Experience 👇
+In the overview below you will find my most recent Experience :
 
-[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://avatars.githubusercontent.com/u/5047569?s=200&v=4"/>](https://creativegeekstudio.in/)
+[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://creativegeekstudio.in/wp-content/uploads/2021/02/cropped-logo-black-79x68.png"/>](https://creativegeekstudio.in/)
 
 **Front-End Web Developer Intern and Video Editor & Animation Creator** \
 [**Creative-Geek-Studio**](https://creativegeekstudio.in/) • Full-time \
@@ -56,24 +57,32 @@ Languages & Technologies: `JavaScript`, `CSS`, `Photoshop`, `After Effects` \
 Featured Projects: [Videos](https://www.youtube.com/channel/UC4HfyPOpc4LS2nqCGuseAVA)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHG-gVjZV6mrw/company-logo_200_200/0/1604394679834?e=1636588800&v=beta&t=vb3CopQ5KEaiwioRV5aYFIemQUw5H3C_ilPmpkQHDX4"/>](https://www.kpn.com/)
+[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://digiventry.com/wp-content/uploads/2020/10/cropped-digiventry-logo-192x192.png"/>](https://digiventry.com/)
 
-**Site Reliability Engineer (SRE)** \
-[**KPN**](https://www.kpn.com/) • Contract \
-Languages & Technologies: `RHEL`, `Python`, `Ansible`\
-<br/>
+**Graphic Designer** \
+[**Digiventry Technologies And Marketing Pvt. Ltd Internship**](https://digiventry.com/) • Internship \
+Languages & Technologies: `Illustrator`, `Photoshop`, `After Effects`, `Figma` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjgPhHoVWNBw/company-logo_200_200/0/1519898606850?e=1636588800&v=beta&t=agD_7d9PqlxI8rCgZrGuAkLZjAOWxiqJgNWvzupLwtc"/>](https://duo.nl/)
+[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://webconix.net/wp-content/uploads/2020/12/cropped-webconixcircle-192x192.png"/>](https://webconix.net/)
 
-**DevOps Engineer** \
-[**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
+**Graphic Designer** \
+[**Webconix**](https://webconix.net/) • Full-time \
+Languages & Technologies: `Illustrator`, `Photoshop`, `After Effects`, `Figma` \
 <br/>
-<br/>
+
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) for a more detailed description of my full work experience, education and certification.
 
+
+### Connect with me:
+
+[<img align="left" alt="Mukul Saini | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Mukul Saini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mukul Saini | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Mukul Saini | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br><br>
 
 - ⚡ My Work 👇
 
@@ -119,24 +128,19 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) f
 (Completed on Jan 2021) | (Completed on Dec 2020) |
 
 
+`----------------------------------------------------------------------`
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/thisismemukul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-### Connect with me:
 
-[<img align="left" alt="Mukul Saini | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Mukul Saini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mukul Saini | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Mukul Saini | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisismemukul&theme=tokyonight)](https://git.io/streak-stats)
-
+[![Mukul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisismemukul&theme=tokyonight)](https://git.io/streak-stats)
+[![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisismemukul&theme=tokyonight)](https://github.com/thisismemukul/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&layout=compact" alt="thisismemukul" /></p>
 
