@@ -90,9 +90,9 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) f
 ----> <a href="https://thisismemukul.github.io/github-slideshow/" target="_blank">Introduction to GitHub</a> (Completed in May 2020) <br>
 
 
-## Mukul has <!-- follower-counter -->1272<!-- /follower-counter --> followers
+## - ⚡ JavaScript Projects 👇
 
-[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+[Google Clone Project](https://github.com/thisismemukul/google-clone.git) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 --- | --- | --- | ---
 ![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
 
