@@ -113,10 +113,10 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) f
 
 ## - ⚡ PHP Projects 👇
 
-[Covid Resources Web App](https://github.com/thisismemukul/covidresources.git) | [File Upload System](https://github.com/thisismemukul/file_upload_php.git) | [jQuery To-Do List](https://github.com/thisismemukul/jQuery-ToDo-List.git) |
---- | --- | --- |
-<img width="300" src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif?raw=true" alt="Covid Resources" title="Covid Resource show gif" /> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/file_upload_php/main/assets/upload.gif?raw=true" alt="File Upload" title="File Upload show gif"/> | <img width="300" src="https://github.com/thisismemukul/jQuery-ToDo-List/raw/main/assets/img/todo.png?raw=true" alt="To-Do List" title="TODO List show image"/> |
-(Completed on Jan 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Dec 2020) | [https://thisismemukul.github.io/jQuery-ToDo-List/](https://thisismemukul.github.io/jQuery-ToDo-List/)<br>(Completed on Aug 2021) |
+[Covid Resources Web App](https://github.com/thisismemukul/covidresources.git) | [File Upload System](https://github.com/thisismemukul/file_upload_php.git) |
+--- | --- |
+<img width="300" src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif?raw=true" alt="Covid Resources" title="Covid Resource show gif" /> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/file_upload_php/main/assets/upload.gif?raw=true" alt="File Upload" title="File Upload show gif"/> |
+(Completed on Jan 2021) | (Completed on Dec 2020) |
 
 
 
