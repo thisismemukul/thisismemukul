@@ -92,23 +92,17 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) f
 
 ## - ⚡ JavaScript Projects 👇
 
-[Google Clone Project](https://github.com/thisismemukul/google-clone.git) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+[Google Clone Project](https://github.com/thisismemukul/google-clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) | [jQuery To-Do List](https://github.com/thisismemukul/jQuery-ToDo-List.git) | [RGB Guessing Game code](https://github.com/thisismemukul/RGBGuessingGame.git)
 --- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+<img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif?raw=true" alt="Google search clone" title="Google clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="Movie app" title="Movie App show gif"/> | <img width="300" src="https://github.com/thisismemukul/jQuery-ToDo-List/raw/main/assets/img/todo.png?raw=true" alt="To-Do List" title="TODO List show image"/> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/RGBGuessingGame/main/rgb.png?raw=true" alt="RGB Game" title="RGB Game show image"/>
+[https://backrub.herokuapp.com](https://backrub.herokuapp.com)<br> (Completed on Aug 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Aug 2021) | [https://thisismemukul.github.io/jQuery-ToDo-List/](https://thisismemukul.github.io/jQuery-ToDo-List/)<br>(Completed on Aug 2021) | [https://thisismemukul.github.io/RGBGuessingGame/](https://thisismemukul.github.io/RGBGuessingGame/)<br>(Completed on Aug 2021)
 
 
 
-- ⚡ JavaScript Projects 👇
 
-----> <a href="https://github.com/thisismemukul/google-clone.git" target="_blank">Google Clone Project</a> -> <a href="https://backrub.herokuapp.com/" target="_blank">Google Clone Demo</a> (Completed on Aug 2021) <br>
-<img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif" alt="Google search clone" title="Google clone show gif" width="500"/>
 
-----> <a href="https://github.com/thisismemukul/movie_search_api.git" target="_blank">Node Movie Search Api App </a> -> <a href="https://movie-search-nodejs.herokuapp.com/" target="_blank">Mives Search App Demo</a> (Completed on Aug 2021) <br>
-<img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif" alt="Movie app" title="Movie App show gif" width="500"/>
 
-----> <a href="https://github.com/thisismemukul/RGBGuessingGame.git" target="_blank">RGB Guessing Game code</a> -> <a href="https://thisismemukul.github.io/RGBGuessingGame/" target="_blank">Play Game</a> (Completed on Aug 2021) <br>
-----> <a href="https://github.com/thisismemukul/jQuery-ToDo-List.git" target="_blank">jQuery To-Do List </a> -> <a href="https://thisismemukul.github.io/jQuery-ToDo-List/" target="_blank">To-Do List Demo</a> (Completed on Aug 2021) <br>
-<img width="300" src="https://github.com/thisismemukul/jQuery-ToDo-List/raw/main/assets/img/todo.png" alt="To-Do List" title="TODO List show image"/>
+
 
 ----> <a href="https://github.com/thisismemukul/patatap_clone.git" target="_blank">Patatap Clone </a> -> <a href="https://thisismemukul.github.io/patatap_clone/" target="_blank">Patatap Demo</a> (Completed on Aug 2021) <br>
 
