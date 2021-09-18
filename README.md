@@ -100,8 +100,8 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) f
 
 
 
-[RGB Guessing Game code](https://github.com/thisismemukul/RGBGuessingGame.git) | [Patatap Clone Project](https://github.com/thisismemukul/patatap_clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) | [jQuery To-Do List](https://github.com/thisismemukul/jQuery-ToDo-List.git)
---- | --- | --- | ---
+[RGB Guessing Game code](https://github.com/thisismemukul/RGBGuessingGame.git) | [Patatap Clone Project](https://github.com/thisismemukul/patatap_clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) |
+--- | --- | --- |
 <img width="300" src="https://raw.githubusercontent.com/thisismemukul/RGBGuessingGame/main/rgb.png?raw=true" alt="RGB Game" title="RGB Game show image"/> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/patatap_clone/main/assets/img/patatap.gif?raw=true" alt="Patatap clone" title="Patatap clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="Movie app" title="Movie App show gif"/> |
  [https://thisismemukul.github.io/RGBGuessingGame/](https://thisismemukul.github.io/RGBGuessingGame/)<br>(Completed on Aug 2021) | [https://thisismemukul.github.io/patatap_clone/](https://thisismemukul.github.io/patatap_clone/)<br> (Completed on Aug 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Aug 2021) |
 
