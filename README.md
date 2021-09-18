@@ -138,19 +138,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 [![Mukul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisismemukul&theme=tokyonight)](https://git.io/streak-stats)
 [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisismemukul&theme=tokyonight)](https://github.com/thisismemukul/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&layout=compact&theme=tokyonight)]
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&layout=compact" alt="thisismemukul" /></p>
 
-<br />
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&theme=white-blue" alt="thisismemukul" /></p>
-
-<br />
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisismemukul&show_icons=true" alt="thisismemukul" /></p>
 
 
 ---
