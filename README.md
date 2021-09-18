@@ -92,19 +92,19 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) f
 
 ## - ⚡ JavaScript Projects 👇
 
-[Google Clone Project](https://github.com/thisismemukul/google-clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) | [jQuery To-Do List](https://github.com/thisismemukul/jQuery-ToDo-List.git) | [RGB Guessing Game code](https://github.com/thisismemukul/RGBGuessingGame.git)
+[Google Clone Project](https://github.com/thisismemukul/google-clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) | [jQuery To-Do List](https://github.com/thisismemukul/jQuery-ToDo-List.git) |
+--- | --- | --- |
+<img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif?raw=true" alt="Google search clone" title="Google clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="Movie app" title="Movie App show gif"/> | <img width="300" src="https://github.com/thisismemukul/jQuery-ToDo-List/raw/main/assets/img/todo.png?raw=true" alt="To-Do List" title="TODO List show image"/> |
+[https://backrub.herokuapp.com](https://backrub.herokuapp.com)<br> (Completed on Aug 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Aug 2021) | [https://thisismemukul.github.io/jQuery-ToDo-List/](https://thisismemukul.github.io/jQuery-ToDo-List/)<br>(Completed on Aug 2021) |
+
+
+
+
+[RGB Guessing Game code](https://github.com/thisismemukul/RGBGuessingGame.git) | [Patatap Clone Project](https://github.com/thisismemukul/patatap_clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) | [jQuery To-Do List](https://github.com/thisismemukul/jQuery-ToDo-List.git)
 --- | --- | --- | ---
-<img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif?raw=true" alt="Google search clone" title="Google clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="Movie app" title="Movie App show gif"/> | <img width="300" src="https://github.com/thisismemukul/jQuery-ToDo-List/raw/main/assets/img/todo.png?raw=true" alt="To-Do List" title="TODO List show image"/> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/RGBGuessingGame/main/rgb.png?raw=true" alt="RGB Game" title="RGB Game show image"/>
-[https://backrub.herokuapp.com](https://backrub.herokuapp.com)<br> (Completed on Aug 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Aug 2021) | [https://thisismemukul.github.io/jQuery-ToDo-List/](https://thisismemukul.github.io/jQuery-ToDo-List/)<br>(Completed on Aug 2021) | [https://thisismemukul.github.io/RGBGuessingGame/](https://thisismemukul.github.io/RGBGuessingGame/)<br>(Completed on Aug 2021)
+<img width="300" src="https://raw.githubusercontent.com/thisismemukul/RGBGuessingGame/main/rgb.png?raw=true" alt="RGB Game" title="RGB Game show image"/> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/patatap_clone/main/assets/img/patatap.gif?raw=true" alt="Patatap clone" title="Patatap clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="Movie app" title="Movie App show gif"/> | <img width="300" src="https://github.com/thisismemukul/jQuery-ToDo-List/raw/main/assets/img/todo.png?raw=true" alt="To-Do List" title="TODO List show image"/> |
+ [https://thisismemukul.github.io/RGBGuessingGame/](https://thisismemukul.github.io/RGBGuessingGame/)<br>(Completed on Aug 2021) | [https://thisismemukul.github.io/patatap_clone/](https://thisismemukul.github.io/patatap_clone/)<br> (Completed on Aug 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Aug 2021) | [https://thisismemukul.github.io/jQuery-ToDo-List/](https://thisismemukul.github.io/jQuery-ToDo-List/)<br>(Completed on Aug 2021) |
 
-
-
-
-
-
-
-
-----> <a href="https://github.com/thisismemukul/patatap_clone.git" target="_blank">Patatap Clone </a> -> <a href="https://thisismemukul.github.io/patatap_clone/" target="_blank">Patatap Demo</a> (Completed on Aug 2021) <br>
 
 `----------------------------------------------------------------------`
 
