@@ -140,12 +140,26 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisismemukul&theme=tokyonight)](https://github.com/thisismemukul/github-readme-stats)
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&layout=compact&theme=tokyonight)]
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+
+<details>
+  <summary>More...</summary>
+ 
+ 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/thisismemukul/thisismemukul" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thisismemukul&repo=thisismemukul&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/thisismemukul/thisismemukul" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thisismemukul&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/> -->
+<br/><br/><br/><br/><br/><br/>
+
+<a href="https://github.com/thisismemukul/RGBGuessingGame">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisismemukul&repo=RGBGuessingGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<!-- repo end -->
+ 
+</details>
 
 
 
