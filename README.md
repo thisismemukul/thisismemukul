@@ -91,7 +91,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) f
 ----> <a href="https://www.eventribe.in/" target="_blank">Eventribe</a> (Completed in June 2021) <br>
 ----> <a href="https://theleapcompany.in/" target="_blank">The Leap Company</a> (Completed in Feb 2021) <br>
 ----> <a href="http://www.thisismewebdev.ml/codes.php" target="_blank">Thisismewebdev | Grab Javascript &amp; CSS projects</a> (Completed in Jan 2021) {OPEN-SOURCE} <br>
-----> <a href="https://www.rentweb.ml/" target="_blank">Rentweb</a> (Completed in Dec 2020) <br>
+----> <a href="http://www.rentweb.ml/" target="_blank">Rentweb</a> (Completed in Dec 2020) <br>
 ----> <a href="http://workplace.epizy.com/" target="_blank">My First Portfolio Website</a> (Completed in Oct 2020) <br> 
 ----> <a href="http://thisismewebdev.epizy.com/" target="_blank">Web Dev </a>just for practice 'cause practice make everything perfect (Completed in Oct 2020) <br>
 ----> <a href="http://snapstock.epizy.com/" target="_blank">Snap Stock</a> (Completed in Sept 2020) {OPEN-SOURCE} <br>
