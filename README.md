@@ -1,175 +1,234 @@
-### Hi there, This is me [Mukul Saini][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <h3 align="center">Hi there👋, This is me [Mukul Saini][linkedin] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<h4 align="center">A passionate Full-Stack Developer from India</h4>
+<p align="center">Turning imagination into reality 🚀</p>
 
-## I’m a `designer` who <code>codes</code>, with 3+ Years of Experience
+## <p align="justify">I’m a `designer` who <code>codes</code>, with 3+ Years of Experience</p>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=thisismemukul" alt="Mukul Saini's Profile views"/></p>
-<p align="center">
-<!-- <a href="#"><img title="THISISME" src="https://github.com/thisismemukul/thisisme/blob/main/images/logo.png"></a> -->
-<img title="THISISME" src="https://www.mindinventory.com/blog/wp-content/uploads/2021/06/mern-stack.png">
-</p>
 
-I’m a `Full-Stack Web Developer` and `Graphic Designer`. I spend my whole day, practically every day, experimenting with programming languages and designing tools; I build websites that delight and inform. I do it well.
+I’m a `Full-Stack Developer` and `Graphic Designer`. I spend my whole day, practically every day, experimenting with programming languages and frameworks including `Java`, `React`, `JS`, `SpringBoot`, `MERN`, `ReactNative`, etc and designing tools; I build websites, mobile applications, REST APIs that delight and inform. I do it well.
 
-<p align="right">
-- ⚡ My Portfolio 👇
-- ----> <a href="https://www.thisismemukul.ml/" target="_blank">Thisismemukul</a>
-</p>
+<div align="center">
+<a href="https://twitter.com/thisisme_mukul" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/thisisme-mukulsaini" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://thisismemukul.netlify.app" target="_blank"><img alt="thisismemukul" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://github.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?style=for-the-badge&logo=github&logoColor=FCFCFC" style="vertical-align:center" /></a>
+</div>
+
 <a href="https://www.thisismemukul.ml/" target="_blank">
 <img align="right" alt="GIF" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true" width="500"/>
 </a>
 <br>
 
-- 🌱 I’m currently working as a freelancer 😎
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 👩‍💻 Check out my <a href="https://thisismemukul.github.io/myportfolio/" target="_blank">resume</a>
+- 🌱 I’m currently working in [Freecharge][freecharge]⚡
 
-**languages and tools:**  
+- 🔭 I’m currently learning **from mistakes.**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/terminal/terminal.png"></code>
+- 👯 I’m looking to collaborate with other creators.
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          10 hrs 38 mins  ████████████████▒░░░░░░░░   65.02 % 
-JavaScript   5 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.72 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-<!--END_SECTION:waka-->
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
-### - ⚡ Experience 👇
+- 👨‍💻 Few of my projects are available on [GitHub][github]
+
+- 📝 I regularly write articles on [Medium][medium]
+
+- 💬 Ask me about **Java,Spring,Javascript,React**
+
+- 📫 To reach me **[Email][email]**
+
+- 📄 Know about my [experiences](experiences)
+
+- 👩‍💻 Check out my <a href="https://thisismemukul.github.io/" target="_blank">digital resume</a>
+
+- ⚡ Fun fact **There’s no end to learning**
+---
+### - <a name='experiences'> ⚡ Experience 👇 </a>
 In the overview below you will find my most recent Experience :
 
+[<img align="left" height="62px" width="62px" alt="Freecharge Payment Technologies Pvt Ltd" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/FC.png?raw=true"/>][freecharge]
 
-[<img align="left" height="94px" width="94px" alt="Softworld (India) Pvt. Ltd" src="https://cdn.swindia.com/assets/images/logo/logo-dark.png"/>](https://www.swindia.com/)
+**SDE 1** \
+[**Freecharge Payment Technologies Pvt Ltd**][freecharge] • Full-time \
+Languages & Technologies: `Java` `MySQL` `SpringBoot` `Docker` `Redis` `Maven` `REST Apis` `Linux Shell Scripting` `AWS` \
+Featured Projects: Many projects that Freecharge serves.
+
+[<img align="left" height="62px" width="62px" alt="Softworld (India) Pvt. Ltd" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/SWIL.png?raw=true"/>][swil]
 
 **React Js and React-Native Developer Intern** \
-[**Softworld (India)**](https://swindia.com/) • Full-time \
+[**Softworld (India)**][swil] • Full-time \
 Languages & Technologies: `JavaScript`, `ReactJs`, `ReactNative`, `MUI`,`User Experience Design (UED)` \
 Featured Projects: [Drive](https://drive.google.com/drive/folders/1sRF_PMt2W4GOWls9whyqdC_G07N3dr6p)
-<br/>
 
-[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://creativegeekstudio.in/wp-content/uploads/2021/02/cropped-logo-black-79x68.png"/>](https://creativegeekstudio.in/)
+[<img align="left" height="62px" width="62px" alt="Creative Geek Studio" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/CGS.png?raw=true"/>][cgs]
 
 **Front-End Web Developer Intern and Video Editor & Animation Creator** \
-[**Creative-Geek-Studio**](https://creativegeekstudio.in/) • Full-time \
-Languages & Technologies: `JavaScript`, `CSS`, `Photoshop`, `After Effects` \
-Featured Projects: [Videos](https://www.youtube.com/channel/UC4HfyPOpc4LS2nqCGuseAVA)
-<br/>
+[**Creative Geek Studio**][cgs] • Full-time \
+Languages & Technologies: `JavaScript`, `CSS`, `Photoshop`, `After Effects` `Adobe PP` \
+Featured Projects: [Drive](https://drive.google.com/drive/folders/1sRF_PMt2W4GOWls9whyqdC_G07N3dr6p)
 
-[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://digiventry.com/wp-content/uploads/2020/10/cropped-digiventry-logo-192x192.png"/>](https://digiventry.com/)
+[//]: # ([<img align="left" height="62px" width="62px" alt="Digiventry Technologies And Marketing Pvt Ltd" src="https://cdn.swindia.com/assets/images/logo/logo-dark.png"/>][digiventry])
+[<img align="left" height="62px" width="62px" alt="Digiventry Technologies And Marketing Pvt. Ltd" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/digiventry.png?raw=true"/>][digiventry]
+
+**Lead Graphic Designer** \
+[**Digiventry Technologies And Marketing Pvt. Ltd**][cgs] • Full-time \
+Languages & Technologies:  `Illustrator`, `Photoshop`, `After Effects`, `Figma` `Adobe XD` \
+Featured Projects: Many projects that Digiventry serves.
+
+[<img align="left" height="62px" width="62px" alt="webconix" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/webconix.png?raw=true"/>][webconix]
 
 **Graphic Designer** \
-[**Digiventry Technologies And Marketing Pvt. Ltd Internship**](https://digiventry.com/) • Internship \
+[**Webconix**][webconix] • Full-time \
 Languages & Technologies: `Illustrator`, `Photoshop`, `After Effects`, `Figma` \
+Featured Projects: Many projects that Webconix serves.
+
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="creative-geek-studio" src="https://webconix.net/wp-content/uploads/2020/12/cropped-webconixcircle-192x192.png"/>](https://webconix.net/)
+---
 
-**Graphic Designer** \
-[**Webconix**](https://webconix.net/) • Full-time \
-Languages & Technologies: `Illustrator`, `Photoshop`, `After Effects`, `Figma` \
-<br/>
+### - ⚡ Major Projects 👇 👨‍💻
 
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/thisisme-mukulsaini/) for a more detailed description of my full work experience, education and certification.
-
-
-### Connect with me:
-
-[<img align="left" alt="Mukul Saini | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Mukul Saini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Mukul Saini | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Mukul Saini | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br><br>
-
-- ⚡ My Work 👇
-
-----> <a href="https://movie-search-nodejs.herokuapp.com/" target="_blank">Node Movie Search App</a> (Completed in Aug 2021) <br>
-----> <a href="https://techiefy.in/" target="_blank">Techiefy</a> (Completed in Aug 2021) <br>
-----> <a href="https://www.eventribe.in/" target="_blank">Eventribe</a> (Completed in June 2021) <br>
-----> <a href="https://theleapcompany.in/" target="_blank">The Leap Company</a> (Completed in Feb 2021) <br>
-----> <a href="http://www.thisismewebdev.ml/codes.php" target="_blank">Thisismewebdev | Grab Javascript &amp; CSS projects</a> (Completed in Jan 2021) {OPEN-SOURCE} <br>
-----> <a href="http://www.rentweb.ml/" target="_blank">Rentweb</a> (Completed in Dec 2020) <br>
-----> <a href="http://workplace.epizy.com/" target="_blank">My First Portfolio Website</a> (Completed in Oct 2020) <br> 
-----> <a href="http://thisismewebdev.epizy.com/" target="_blank">Web Dev </a>just for practice 'cause practice make everything perfect (Completed in Oct 2020) <br>
-----> <a href="http://snapstock.epizy.com/" target="_blank">Snap Stock</a> (Completed in Sept 2020) {OPEN-SOURCE} <br>
-----> <a href="https://thisismemukul.github.io/" target="_blank">Digital Portfolio</a> (Completed in June 2020) <br>
-----> <a href="https://thisismemukul.github.io/github-slideshow/" target="_blank">Introduction to GitHub</a> (Completed in May 2020) <br>
+|                                                                          [React Native Food App][project1_link]                                                                          |                                                                [React Native NFT App][project2_link]                                                                 |                                                                          [Find My Gitub App][project3_link]                                                                          |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|               <img width="300" src="https://github.com/thisismemukul/react_native_food_app/blob/main/assets/demo.gif?raw=true" alt="Food App" title="Food App show png"/>                |         <img width="300" src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/demo.gif?raw=true" alt="NFT App" title="NFT App show png"/>         |       <img width="300" src="https://github.com/thisismemukul/find-my-github/blob/main/img/find-my-github.gif?raw=true" alt="find my github" title="find my github show gif"/>        |
+| [react_native_food_app][project1_demo]<br> This project is made in react-native with custume API. User can add food to cart , search food and restorants.<br/> (Completed on April 2022) | [react_native_nft_app][project2_demo]<br> This project is made in react-native with custume API. User can add see NFTs , place a bid.<br/> (Completed on April 2022) | [find my github demo][project3_demo]<br> Here you can search any github user there number of repos and gists also you can read recent blogs and topics.<br/> (Completed on Jul 2022) |
 
 
-## - ⚡ JavaScript Projects 👇
-
-[Google Clone Project](https://github.com/thisismemukul/google-clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) | [jQuery To-Do List](https://github.com/thisismemukul/jQuery-ToDo-List.git) |
---- | --- | --- |
-<img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif?raw=true" alt="Google search clone" title="Google clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="Movie app" title="Movie App show gif"/> | <img width="300" src="https://github.com/thisismemukul/jQuery-ToDo-List/raw/main/assets/img/todo.png?raw=true" alt="To-Do List" title="TODO List show image"/> |
-[https://backrub.herokuapp.com](https://backrub.herokuapp.com)<br> (Completed on Aug 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Aug 2021) | [https://thisismemukul.github.io/jQuery-ToDo-List/](https://thisismemukul.github.io/jQuery-ToDo-List/)<br>(Completed on Aug 2021) |
+|                                                                                                       [Youtube App][project4_link]                                                                                                        |                                                                              [The T-Shirt Hub][project5_link]                                                                              |                                                                   [Google Clone][project6_link]                                                                    |                                                                            [Node Movie Search Api App][project7_link]                                                                             |                                                                    [Covid-19 Resources Website][project8_link]                                                                     |                
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                         <img width="300" src="https://github.com/thisismemukul/youtube_clone/blob/main/demo.gif?raw=true" alt="Youtube App clone" title="Youtube App show gif"/>                                          |          <img width="300" src="https://github.com/thisismemukul/The-TShirt-Hub-be/blob/main/demo2.gif?raw=true" alt="The T-Shirt Hub App" title="The T-Shirt Hub App show png"/>           | <img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif?raw=true" alt="Google Clone" title="Google Clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="movie_search_api" title="movie_search_api show gif"/> |       <img width="300" src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif?raw=true" alt="covidresources" title="covidresources show gif"/>       |
+| [youtubeappclone.herokuapp.com][project4_demo]<br> This is a Fully Functional MERN stack project Youtube clone using React, Node, MongoDB and Firebase with Redux Toolkit, JWT Cookies and Firebase Storage.<br/> (Completed on Aug 2022) | [The T-Shirt Hub demo][project5_demo]<br> A MERN Stack t-shirt selling e-commerce (MVC architecture Based) Project with an integrated Paypal payment gateway.<br/> (Completed on Jan 2022) |          [Google clone demo][project6_demo]<br> User can Search any query just like google. Users can see the query results.<br/> (Completed on Dec 2021)          |           [movie_search_api demo][project7_demo]<br> User can Search Lists of Movies and Series based on keywords. Users can see the Movie/Series details.<br/> (Completed on Aug 2021)           | [covidresources demo][project8_demo]<br> We are here to provide you with all we can. We try our best so that no one out their runs out of resources.<br/> (Completed on Sept 2021) |
 
 
+## Tech Stack 👨‍💻
+#### Languages
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=CoffeeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![Cpp](https://img.shields.io/badge/cpp-000?style=for-the-badge&logo=Cplusplus&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+![Linux](https://img.shields.io/badge/-Shell-000?style=for-the-badge&logo=linux)
 
+#### Framework/Library
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=SpringBoot)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
+![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
+![Expo](https://img.shields.io/badge/-Expo-000?style=for-the-badge&logo=expo)
+![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
 
-[RGB Guessing Game code](https://github.com/thisismemukul/RGBGuessingGame.git) | [Patatap Clone Project](https://github.com/thisismemukul/patatap_clone.git) | [Node Movie Search Api App](https://github.com/thisismemukul/movie_search_api.git) |
---- | --- | --- |
-<img width="300" src="https://raw.githubusercontent.com/thisismemukul/RGBGuessingGame/main/rgb.png?raw=true" alt="RGB Game" title="RGB Game show image"/> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/patatap_clone/main/assets/img/patatap.gif?raw=true" alt="Patatap clone" title="Patatap clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="Movie app" title="Movie App show gif"/> |
- [https://thisismemukul.github.io/RGBGuessingGame/](https://thisismemukul.github.io/RGBGuessingGame/)<br>(Completed on Aug 2021) | [https://thisismemukul.github.io/patatap_clone/](https://thisismemukul.github.io/patatap_clone/)<br> (Completed on Aug 2021) | [https://movie-search-nodejs.herokuapp.com](https://movie-search-nodejs.herokuapp.com)<br> (Completed on Aug 2021) |
+#### CSS Framework/Library
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
+#### Design/Visual Tools
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-000?style=for-the-badge&logo=Adobe%20XD)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects)
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-000?style=for-the-badge&logo=Adobe%20Illustrator)
 
-`----------------------------------------------------------------------`
+#### Database/State
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-000?style=for-the-badge&logo=Appwrite&logoColor=red)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
 
+#### Backend
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=CoffeeScript)
 
+#### Web Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![RENDER](https://img.shields.io/badge/-RENDER-000?style=for-the-badge&logo=render)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 
+#### CI/CD
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
-## - ⚡ PHP Projects 👇
+#### Package Manager
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Maven](https://img.shields.io/badge/-Maven-000?style=for-the-badge&logo=apachemaven)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
+![Nodemon](https://img.shields.io/badge/-Nodemon-000?style=for-the-badge&logo=nodemon)
 
-[Covid Resources Web App](https://github.com/thisismemukul/covidresources.git) | [File Upload System](https://github.com/thisismemukul/file_upload_php.git) |
---- | --- |
-<img width="300" src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif?raw=true" alt="Covid Resources" title="Covid Resource show gif" /> | <img width="300" src="https://raw.githubusercontent.com/thisismemukul/file_upload_php/main/assets/upload.gif?raw=true" alt="File Upload" title="File Upload show gif"/> |
-(Completed on Jan 2021) | (Completed on Dec 2020) |
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
+#### Other
+![.ENV](https://img.shields.io/badge/-.ENV-000?style=for-the-badge&logo=dotenv)
+![Kibana](https://img.shields.io/badge/-KIBANA-000?style=for-the-badge&message=Kibana&logo=Kibana&logoColor=FFFFFF&label=)
 
-`----------------------------------------------------------------------`
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/thisismemukul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-
-[![Mukul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thisismemukul&theme=tokyonight)](https://git.io/streak-stats)
-[![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisismemukul&theme=tokyonight)](https://github.com/thisismemukul/github-readme-stats)
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&layout=compact&theme=tokyonight)]
-
-
+``` java
+if(sad()==true){ sad().stop(); beAwesome();}
+```
+---
 <details>
-  <summary>More...</summary>
- 
- 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/thisismemukul/thisismemukul" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thisismemukul&repo=thisismemukul&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/thisismemukul/thisismemukul" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=thisismemukul&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<summary>⚡ My Other Work 👇</summary>
 
-<a href="https://github.com/thisismemukul/RGBGuessingGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thisismemukul&repo=RGBGuessingGame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+>----> <a href="https://thisismemukul.github.io/" target="_blank">Digital Portfolio</a> (Completed in June 2020) <br>
 
-<!-- repo end -->
- 
++ <details>
+    <summary>Heading1.1</summary>
+
+  some more text
+    + <details>
+        <summary>Heading1.1.1</summary>
+        even more text
+      </details>
+   </details>
 </details>
 
+---
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=thisismemukul&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismemukul&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
+## GitHub Streaks 🔥
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=thisismemukul&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thisismemukul)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thisismemukul)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/thisismemukul)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/thisismemukul)
+
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+
+<a href="https://www.buymeacoffee.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+<a href="https://thisismemukul.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
+
+
+## 🌐 Socials:
+[![Spotify](https://img.shields.io/badge/Spotify-1769ff?logo=spotify&logoColor=white)](https://behance.net/thisismemukul)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/thisismemukul)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thisismemukul)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thisismemukul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisismemukul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisismemukul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@thisismemukul) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thisismemukul) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/thisismemukul) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thisismemukul) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/thisismemukul) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thisismemukul) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thisismemukul) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisismemukul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thisismemukul) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thisismemukul)
 
 
 ---
@@ -178,3 +237,44 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [telegram]: https://ttttt.me/thisismemukul
 [whatsapp]: https://wa.me/918769506494
 [linkedin]: https://www.linkedin.com/in/thisisme-mukulsaini
+[freecharge]: https://www.freecharge.in/
+[swil]: https://www.swindia.com/
+[cgs]: https://www.linkedin.com/company/bbitm-services/
+[digiventry]: https://digiventry.com/
+[webconix]: https://webconix.net/
+[github]: https://www.github.com/thisismemukul
+[medium]: https://www.medium.com/@thisismemukul
+[email]: mailto:thisismemukul@gmail.com
+[experiences]: #experiences
+
+
+[project1_link]: https://github.com/thisismemukul/react_native_food_app
+[project1_demo]: https://www.behance.net/gallery/139779433/Food-App-UI
+[project2_link]: https://github.com/thisismemukul/react_native_nft
+[project2_demo]: https://github.com/thisismemukul/react_native_nft
+[project3_link]: https://github.com/thisismemukul/find_my_github
+[project3_demo]: https://drive.google.com/drive/folders/1sRF_PMt2W4GOWls9whyqdC_G07N3dr6p?usp=sharing
+[project4_link]: http://youtubeappclone.herokuapp.com
+[project4_demo]: https://drive.google.com/file/d/1h1WIFvMtR617sTNGNDkTg8U0GIJ8eieG/view
+[project5_link]: https://github.com/thisismemukul/The-TShirt-Hub-be
+[project5_demo]: https://thetshirthub.netlify.app/
+[project6_link]: https://github.com/thisismemukul?tab=repositories&q=google+clone
+[project6_demo]: https://reactgoogleclone.netlify.app/
+[project7_link]: https://github.com/thisismemukul/movie_search_api
+[project7_demo]: https://movie-search-nodejs.herokuapp.com
+[project8_link]: https://github.com/thisismemukul/covidresources
+[project8_demo]: https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif
+
+
+
+<!--
+#### - TODO
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
+4. **Define the data model:**
+    - Create Java classes to represent the entities in your blog app, such as `User`, `BlogPost`, and `Comment`. 📝
+    - Annotate these classes with appropriate JPA annotations for mapping to the database tables.
+-->
