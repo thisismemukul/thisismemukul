@@ -8,7 +8,7 @@
 I’m a `Full-Stack Developer` and `Graphic Designer`. I spend my whole day, practically every day, experimenting with programming languages and frameworks including `Java`, `React`, `JS`, `SpringBoot`, `MERN`, `ReactNative`, etc and designing tools; I build websites, mobile applications, REST APIs that delight and inform. I do it well.
 
 <div align="center">
-<a href="https://twitter.com/thisisme_mukul" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://twitter.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/thisisme-mukulsaini" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://thisismemukul.netlify.app" target="_blank"><img alt="thisismemukul" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
@@ -89,7 +89,7 @@ Featured Projects: Many projects that Webconix serves.
 
 |                                                                          [React Native Food App][project1_link]                                                                          |                                                                [React Native NFT App][project2_link]                                                                 |                                                                          [Find My Gitub App][project3_link]                                                                          |
 |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|               <img width="300" src="https://github.com/thisismemukul/react_native_food_app/blob/main/assets/demo.gif?raw=true" alt="Food App" title="Food App show png"/>                |         <img width="300" src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/demo.gif?raw=true" alt="NFT App" title="NFT App show png"/>         |       <img width="300" src="https://github.com/thisismemukul/find-my-github/blob/main/img/find-my-github.gif?raw=true" alt="find my github" title="find my github show gif"/>        |
+|               <img width="300" src="https://github.com/thisismemukul/react_native_food_app/blob/main/assets/demo.gif?raw=true" alt="Food App" title="Food App show png"/>                |         <img width="300" src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/demo.gif?raw=true" alt="NFT App" title="NFT App show png"/>         |      <img width="300" src="https://github.com/thisismemukul/find_my_github/blob/main/assets/find-my-github.gif?raw=true" alt="find my github" title="find my github show gif"/>      |
 | [react_native_food_app][project1_demo]<br> This project is made in react-native with custume API. User can add food to cart , search food and restorants.<br/> (Completed on April 2022) | [react_native_nft_app][project2_demo]<br> This project is made in react-native with custume API. User can add see NFTs , place a bid.<br/> (Completed on April 2022) | [find my github demo][project3_demo]<br> Here you can search any github user there number of repos and gists also you can read recent blogs and topics.<br/> (Completed on Jul 2022) |
 
 
@@ -225,10 +225,21 @@ if(sad()==true){ sad().stop(); beAwesome();}
 
 
 ## 🌐 Socials:
-[![Spotify](https://img.shields.io/badge/Spotify-1769ff?logo=spotify&logoColor=white)](https://behance.net/thisismemukul)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/thisismemukul)
+[![Spotify](https://img.shields.io/badge/Spotify-000?logo=spotify)](https://open.spotify.com/user/31xgmbky7w6ddiywiczmjhhoream)
+[![Behance](https://img.shields.io/badge/Behance-000?logo=behance&logoColor=white)](https://behance.net/thisismemukul)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thisismemukul)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thisismemukul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisismemukul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thisismemukul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@thisismemukul) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thisismemukul) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/thisismemukul) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thisismemukul) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/thisismemukul) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thisismemukul) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thisismemukul) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisismemukul) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thisismemukul) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thisismemukul)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011971261574) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisismemukul) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisme-mukulsaini/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@thisismemukul) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thisismemukul) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Mukul-Saini-228) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thisismemukul) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15599538/mukul-saini) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thisismemukul) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thisismemukul) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thisismemukul) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thisismemukul)
 
 
 ---
