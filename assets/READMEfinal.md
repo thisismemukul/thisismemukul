@@ -45,21 +45,21 @@ I’m a `Full-Stack Developer` and `Graphic Designer`. I spend my whole day, pra
 ### - <a name='experiences'> ⚡ Experience 👇 </a>
 In the overview below you will find my most recent Experience :
 
-[<img align="left" height="62px" width="62px" alt="Freecharge Payment Technologies Pvt Ltd" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/portfolio.gif?raw=true"/>][freecharge] 
+[<img align="left" height="62px" width="62px" alt="Freecharge Payment Technologies Pvt Ltd" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/FC.png?raw=true"/>][freecharge] 
 
 **SDE 1** \
 [**Freecharge Payment Technologies Pvt Ltd**][freecharge] • Full-time \
 Languages & Technologies: `Java` `MySQL` `SpringBoot` `Docker` `Redis` `Maven` `REST Apis` `Linux Shell Scripting` `AWS` \
 Featured Projects: Many projects that Freecharge serves.
 
-[<img align="left" height="62px" width="62px" alt="Softworld (India) Pvt. Ltd" src="https://cdn.swindia.com/assets/images/logo/logo-dark.png"/>][swil]
+[<img align="left" height="62px" width="62px" alt="Softworld (India) Pvt. Ltd" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/SWIL.png?raw=true"/>][swil]
 
 **React Js and React-Native Developer Intern** \
 [**Softworld (India)**][swil] • Full-time \
 Languages & Technologies: `JavaScript`, `ReactJs`, `ReactNative`, `MUI`,`User Experience Design (UED)` \
 Featured Projects: [Drive](https://drive.google.com/drive/folders/1sRF_PMt2W4GOWls9whyqdC_G07N3dr6p)
 
-[<img align="left" height="62px" width="62px" alt="Creative Geek Studio" src="https://cdn.swindia.com/assets/images/logo/logo-dark.png"/>][cgs]
+[<img align="left" height="62px" width="62px" alt="Creative Geek Studio" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/CGS.png?raw=true"/>][cgs]
 
 **Front-End Web Developer Intern and Video Editor & Animation Creator** \
 [**Creative Geek Studio**][cgs] • Full-time \
@@ -67,37 +67,36 @@ Languages & Technologies: `JavaScript`, `CSS`, `Photoshop`, `After Effects` `Ado
 Featured Projects: [Drive](https://drive.google.com/drive/folders/1sRF_PMt2W4GOWls9whyqdC_G07N3dr6p)
 
 [//]: # ([<img align="left" height="62px" width="62px" alt="Digiventry Technologies And Marketing Pvt Ltd" src="https://cdn.swindia.com/assets/images/logo/logo-dark.png"/>][digiventry])
-[<img align="left" height="62px" width="62px" alt="Digiventry Technologies And Marketing Pvt. Ltd" src="https://cdn.swindia.com/assets/images/logo/logo-dark.png"/>][digiventry]
+[<img align="left" height="62px" width="62px" alt="Digiventry Technologies And Marketing Pvt. Ltd" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/digiventry.png?raw=true"/>][digiventry]
 
 **Lead Graphic Designer** \
 [**Digiventry Technologies And Marketing Pvt. Ltd**][cgs] • Full-time \
 Languages & Technologies:  `Illustrator`, `Photoshop`, `After Effects`, `Figma` `Adobe XD` \
 Featured Projects: Many projects that Digiventry serves.
 
-[<img align="left" height="62px" width="62px" alt="webconix" src="https://webconix.net/wp-content/uploads/2020/12/cropped-webconixcircle-192x192.png"/>][webconix]
+[<img align="left" height="62px" width="62px" alt="webconix" src="https://github.com/thisismemukul/thisismemukul/blob/main/assets/webconix.png?raw=true"/>][webconix]
 
 **Graphic Designer** \
 [**Webconix**][webconix] • Full-time \
 Languages & Technologies: `Illustrator`, `Photoshop`, `After Effects`, `Figma` \
 Featured Projects: Many projects that Webconix serves.
+
 <br/>
----
->test
-> test 2
-> 
-> dfvgdfsdf 
 
-#hell
-
->df
 ---
+
 ### - ⚡ Major Projects 👇 👨‍💻
 
-|                                                                                                       [Youtube App][project1_link]                                                                                                        |                                                                          [React Native Food App][project2_link]                                                                          |                                                                [React Native NFT App][project3_link]                                                                 |                                                                              [The T-Shirt Hub][project4_link]                                                                              |                                                                   [Google Clone][project5_link]                                                                    |                                                                    [Covid-19 Resources Website][project6_link]                                                                    |                                                                          [Find My Gitub App][project7_link]                                                                          |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                         <img width="300" src="https://github.com/thisismemukul/youtube_clone/blob/main/demo.gif?raw=true" alt="Youtube App clone" title="Youtube App show gif"/>                                          |               <img width="300" src="https://github.com/thisismemukul/react_native_food_app/blob/main/assets/demo.gif?raw=true" alt="Food App" title="Food App show png"/>                |         <img width="300" src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/demo.gif?raw=true" alt="NFT App" title="NFT App show png"/>         |          <img width="300" src="https://github.com/thisismemukul/The-TShirt-Hub-be/blob/main/demo2.gif?raw=true" alt="The T-Shirt Hub App" title="The T-Shirt Hub App show png"/>           | <img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif?raw=true" alt="Google Clone" title="Google Clone show gif"/> |       <img width="300" src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif?raw=true" alt="covidresources" title="covidresources show gif"/>      |       <img width="300" src="https://github.com/thisismemukul/find-my-github/blob/main/img/find-my-github.gif?raw=true" alt="find my github" title="find my github show gif"/>        |
-| [youtubeappclone.herokuapp.com][project1_demo]<br> This is a Fully Functional MERN stack project Youtube clone using React, Node, MongoDB and Firebase with Redux Toolkit, JWT Cookies and Firebase Storage.<br/> (Completed on Aug 2022) | [react_native_food_app][project2_demo]<br> This project is made in react-native with custume API. User can add food to cart , search food and restorants.<br/> (Completed on April 2022) | [react_native_nft_app][project3_demo]<br> This project is made in react-native with custume API. User can add see NFTs , place a bid.<br/> (Completed on April 2022) | [The T-Shirt Hub demo][project4_demo]<br> A MERN Stack t-shirt selling e-commerce (MVC architecture Based) Project with an integrated Paypal payment gateway.<br/> (Completed on Jan 2022) |          [Google clone demo][project5_demo]<br> User can Search any query just like google. Users can see the query results.<br/> (Completed on Dec 2021)          | [covidresources demo][project6_demo]<br> We are here to provide you with all we can. We try our best so that no one out their runs out of resources.<br/> (Completed on Sept 2021)| [find my github demo][project7_demo]<br> Here you can search any github user there number of repos and gists also you can read recent blogs and topics.<br/> (Completed on Jul 2022) |
+|                                                                          [React Native Food App][project1_link]                                                                          |                                                                [React Native NFT App][project2_link]                                                                 |                                                                          [Find My Gitub App][project3_link]                                                                          |
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|               <img width="300" src="https://github.com/thisismemukul/react_native_food_app/blob/main/assets/demo.gif?raw=true" alt="Food App" title="Food App show png"/>                |         <img width="300" src="https://github.com/thisismemukul/react_native_nft/blob/main/assets/demo.gif?raw=true" alt="NFT App" title="NFT App show png"/>         |       <img width="300" src="https://github.com/thisismemukul/find-my-github/blob/main/img/find-my-github.gif?raw=true" alt="find my github" title="find my github show gif"/>        |
+| [react_native_food_app][project1_demo]<br> This project is made in react-native with custume API. User can add food to cart , search food and restorants.<br/> (Completed on April 2022) | [react_native_nft_app][project2_demo]<br> This project is made in react-native with custume API. User can add see NFTs , place a bid.<br/> (Completed on April 2022) | [find my github demo][project3_demo]<br> Here you can search any github user there number of repos and gists also you can read recent blogs and topics.<br/> (Completed on Jul 2022) |
 
+
+|                                                                                                       [Youtube App][project4_link]                                                                                                        |                                                                              [The T-Shirt Hub][project5_link]                                                                              |                                                                   [Google Clone][project6_link]                                                                    |                                                                            [Node Movie Search Api App][project7_link]                                                                             |                                                                    [Covid-19 Resources Website][project8_link]                                                                     |                
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                         <img width="300" src="https://github.com/thisismemukul/youtube_clone/blob/main/demo.gif?raw=true" alt="Youtube App clone" title="Youtube App show gif"/>                                          |          <img width="300" src="https://github.com/thisismemukul/The-TShirt-Hub-be/blob/main/demo2.gif?raw=true" alt="The T-Shirt Hub App" title="The T-Shirt Hub App show png"/>           | <img width="300" src="https://github.com/thisismemukul/google-clone/blob/main/public/img/tutorial.gif?raw=true" alt="Google Clone" title="Google Clone show gif"/> | <img width="300" src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif?raw=true" alt="movie_search_api" title="movie_search_api show gif"/> |       <img width="300" src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif?raw=true" alt="covidresources" title="covidresources show gif"/>       |
+| [youtubeappclone.herokuapp.com][project4_demo]<br> This is a Fully Functional MERN stack project Youtube clone using React, Node, MongoDB and Firebase with Redux Toolkit, JWT Cookies and Firebase Storage.<br/> (Completed on Aug 2022) | [The T-Shirt Hub demo][project5_demo]<br> A MERN Stack t-shirt selling e-commerce (MVC architecture Based) Project with an integrated Paypal payment gateway.<br/> (Completed on Jan 2022) |          [Google clone demo][project6_demo]<br> User can Search any query just like google. Users can see the query results.<br/> (Completed on Dec 2021)          |           [movie_search_api demo][project7_demo]<br> User can Search Lists of Movies and Series based on keywords. Users can see the Movie/Series details.<br/> (Completed on Aug 2021)           | [covidresources demo][project8_demo]<br> We are here to provide you with all we can. We try our best so that no one out their runs out of resources.<br/> (Completed on Sept 2021) |
 
 
 ## Tech Stack 👨‍💻
@@ -179,7 +178,24 @@ Featured Projects: Many projects that Webconix serves.
 ``` java
 if(sad()==true){ sad().stop(); beAwesome();}
 ```
+---
+<details>
+<summary>⚡ My Other Work 👇</summary>
 
+>----> <a href="https://thisismemukul.github.io/" target="_blank">Digital Portfolio</a> (Completed in June 2020) <br>
+
++ <details>
+    <summary>Heading1.1</summary>
+
+  some more text
+    + <details>
+        <summary>Heading1.1.1</summary>
+        even more text
+      </details>
+   </details>
+</details>
+
+---
 
 ## Current GitHub Stats 📊
 ![Stats](https://github-readme-stats.vercel.app/api?username=thisismemukul&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
@@ -188,11 +204,6 @@ if(sad()==true){ sad().stop(); beAwesome();}
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=thisismemukul&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
-<!--
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=thisismemukul&theme=jolly&response=false)](https://github.com/thisismemukul/github-twitter-card-embed)
-Twitter API pricing changes Killed this tool sadly
--->
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thisismemukul) 
@@ -205,18 +216,8 @@ Twitter API pricing changes Killed this tool sadly
 
 ---
 
-#### - TODO
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
-
-4. **Define the data model:**
-    - Create Java classes to represent the entities in your blog app, such as `User`, `BlogPost`, and `Comment`. 📝
-    - Annotate these classes with appropriate JPA annotations for mapping to the database tables.
-
 <a href="https://www.buymeacoffee.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-<a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://thisismemukul.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/thisismemukul" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
@@ -246,18 +247,34 @@ Twitter API pricing changes Killed this tool sadly
 [email]: mailto:thisismemukul@gmail.com
 [experiences]: #experiences
 
-[project1_link]: youtubeappclone.herokuapp.com
-[project1_demo]: https://drive.google.com/file/d/1h1WIFvMtR617sTNGNDkTg8U0GIJ8eieG/view
-[project2_link]: https://github.com/thisismemukul/react_native_food_app
-[project2_demo]: https://www.behance.net/gallery/139779433/Food-App-UI
-[project3_link]: https://github.com/thisismemukul/react_native_nft
-[project3_demo]: https://github.com/thisismemukul/react_native_nft
-[project4_link]: https://github.com/thisismemukul/The-TShirt-Hub-be
-[project4_demo]: https://thetshirthub.netlify.app/
-[project5_link]: https://github.com/thisismemukul?tab=repositories&q=google+clone
-[project5_demo]: https://reactgoogleclone.netlify.app/
-[project6_link]: https://github.com/thisismemukul/covidresources
-[project6_demo]: https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif
-[project7_link]: drive Link
-[project7_demo]: drive link
-[url]: http://www.online-image-editor.com//styles/2014/images/example_image.png
+
+[project1_link]: https://github.com/thisismemukul/react_native_food_app
+[project1_demo]: https://www.behance.net/gallery/139779433/Food-App-UI
+[project2_link]: https://github.com/thisismemukul/react_native_nft
+[project2_demo]: https://github.com/thisismemukul/react_native_nft
+[project3_link]: https://github.com/thisismemukul/find_my_github
+[project3_demo]: https://drive.google.com/drive/folders/1sRF_PMt2W4GOWls9whyqdC_G07N3dr6p?usp=sharing
+[project4_link]: http://youtubeappclone.herokuapp.com
+[project4_demo]: https://drive.google.com/file/d/1h1WIFvMtR617sTNGNDkTg8U0GIJ8eieG/view
+[project5_link]: https://github.com/thisismemukul/The-TShirt-Hub-be
+[project5_demo]: https://thetshirthub.netlify.app/
+[project6_link]: https://github.com/thisismemukul?tab=repositories&q=google+clone
+[project6_demo]: https://reactgoogleclone.netlify.app/
+[project7_link]: https://github.com/thisismemukul/movie_search_api
+[project7_demo]: https://movie-search-nodejs.herokuapp.com
+[project8_link]: https://github.com/thisismemukul/covidresources
+[project8_demo]: https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif
+
+
+
+<!--
+#### - TODO
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+
+4. **Define the data model:**
+    - Create Java classes to represent the entities in your blog app, such as `User`, `BlogPost`, and `Comment`. 📝
+    - Annotate these classes with appropriate JPA annotations for mapping to the database tables.
+-->
